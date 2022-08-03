@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Omkar-2003 
-- Aspiring Full-Stack Developer, have intrest in Solving DSA problems
+- Aspiring Full-Stack Developer, have interest in Solving DSA problems
 - 📫 How to reach me via Github ;mail id :- kaleomkar8369@gmail.com
   ...
 
