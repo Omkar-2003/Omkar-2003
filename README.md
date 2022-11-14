@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Omkar-2003 
-- Aspiring Full-Stack Developer, have interest in Solving DSA problems
+- A Web Developer Aspiring to be a full stack developer, also good at solving DSA problems. Experienced 
+with WEB-DEV projects. Well-versed in numerous programming languages including HTML5, CSS , 
+JavaScript , JAVA ,Node.js , Express.js ,API, MongoDB. And eager to learn new things.
 - 📫 How to reach me via Github ;mail id :- kaleomkar8369@gmail.com
   ...
 
