@@ -5,7 +5,7 @@
   Skilled in scalable API development, system optimization, and building efficient backend solutions for real-world applications.
   Worked on Barbera, an online services platform with 1,000+ users,
   contributing to backend development and performance optimization. And eager to learn new things.
-- 📫 How to reach me via Github ;mail id :- kaleomkar8369@gmail.com
+- 📫 How to reach me via Email :- kaleomkar8369@gmail.com
 
 <!---
 Omkar-2003/Omkar-2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
