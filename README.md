@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Omkar-2003 
-- A Web Developer Aspiring to be a full stack developer, also good at solving DSA problems. Experienced 
-with WEB-DEV projects. Well-versed in numerous programming languages including HTML5, CSS , 
-JavaScript , JAVA ,Node.js , Express.js ,API, MongoDB. And eager to learn new things.
+Software Developer with around 1 year of experience, specializing in Java, Spring Boot, Node.js, GraphQL, Angular, and PostgreSQL.
+Skilled in scalable API development, system optimization, and building efficient backend solutions for real-world applications.
+Worked on Barbera, an online services platform with 1,000+ users,
+ contributing to backend development and performance optimization. And eager to learn new things.
 - 📫 How to reach me via Github ;mail id :- kaleomkar8369@gmail.com
+- 
   ...
 
 <!---
